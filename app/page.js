@@ -158,6 +158,10 @@ export default function Home() {
                 <option value="Hindi">Hindi (हिन्दी)</option>
                 <option value="Arabic">Arabic (العربية)</option>
                 <option value="Spanish">Spanish (Español)</option>
+                <option value="English">English</option>
+                <option value="French">French (Français)</option>
+                <option value="German">German (Deutsch)</option>
+                <option value="Chinese">Chinese (中文)</option>
               </select>
             </div>
             <div>
